@@ -5,8 +5,8 @@ Overview
 The Themed Runner Game is a simple and fun 2D browser-based game where players navigate a scrolling environment, jump over obstacles, and earn points. The game includes customizable themes, dynamic backgrounds, and pause functionality to enhance the gaming experience.
 
 Features
-- Dynamic Themes: Players can select from multiple themes, including Space, Ocean, and Forest. Each theme has unique visuals for the player character, obstacles, and background.
-- Dynamic Background: The background scrolls horizontally, creating an immersive movement effect.
+- Changeable Themes: Players can select from multiple themes, including Space, Ocean, and Forest. Each theme has unique visuals for the player character, obstacles, and background.
+- Dynamic Background: The background scrolls horizontally, creating a movement effect.
 - Pause Functionality: Players can pause and resume the game at any time with the P key.
 - Score System: Tracks the player's current score and keeps a high score for replayability.
 - End Screen: Displays the final score, high score, and options to restart or change the theme.
