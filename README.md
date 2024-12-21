@@ -1,4 +1,4 @@
-# Runner-Game-Remake
+# Infinite-Runner-Game
 
 Overview
 
