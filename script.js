@@ -19,17 +19,17 @@ const themes = {
   space: {
     playerImage: "images/spaceship.png",
     obstacleImage: "images/meteor.png",
-    backgroundImage: "https://tinyurl.com/27j2n7oq",
+    backgroundImage: "https://img.freepik.com/free-vector/creative-watercolor-galaxy-background_79603-1388.jpg",
   },
   ocean: {
     playerImage: "images/fish.png",
     obstacleImage: "images/seaweed.png",
-    backgroundImage: "https://tinyurl.com/2ydaw389",
+    backgroundImage: "https://www.patternpictures.com/wp-content/uploads/Intense-blue-ocean-background-water-render-patternpictures-5522-1400x930.jpg",
   },
   forest: {
     playerImage: "images/squirrel.png",
     obstacleImage: "images/log.png",
-    backgroundImage: "https://tinyurl.com/2br7x2k9",
+    backgroundImage: "https://images.pond5.com/forest-trees-background-glade-thicket-illustration-157953878_iconl_wide_nowm.jpeg",
   },
 };
 
